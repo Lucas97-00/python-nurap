@@ -1,0 +1,5 @@
+print('olá, mundo')
+print('bom dia')
+print('meu nome é lucas')
+print('qual seu nome?')
+print('gosto de pizza')
